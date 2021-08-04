@@ -8,7 +8,9 @@ const app = firebase.initializeApp({
 })
 
 const firebaseDatabase = app.database();
+const firebaseAuth = app.auth();
 
 export {
-    firebaseDatabase
+    firebaseDatabase,
+    firebaseAuth
 };
