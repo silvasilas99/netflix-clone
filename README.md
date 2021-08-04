@@ -1,4 +1,5 @@
 # Netflix clone
+![image](https://user-images.githubusercontent.com/49960425/128117293-fa3c2d09-e905-40c7-baa7-25ac0e2f2c3c.png)
 
 ## How run the project: 
 
